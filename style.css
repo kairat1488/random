@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(197, 197, 197);
+}
+h1{
+    font-weight: 700;
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    font-family: 'Sen',sans-serif;
+}
+img{
+    width: 300px;
+    height: 300px;
+    margin: 90px 0 0 800px ;
+    border-radius: 20%;
+    
+}
